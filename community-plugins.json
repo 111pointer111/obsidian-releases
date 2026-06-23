@@ -35163,7 +35163,7 @@
   {
     "id": "spider",
     "name": "spider",
-    "author": "huang",
+    "author": "huangtao",
     "description": "AI chat branches as an interactive knowledge map. Tab to drill down, arrow keys to navigate, structured exports.",
     "repo": "111pointer111/spider"
   }
