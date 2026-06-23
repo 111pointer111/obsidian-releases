@@ -35159,5 +35159,12 @@
     "author": "Rosetta Zidian Guo",
     "description": "Prevents wide Mermaid diagrams from breaking during PDF/HTML export. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fyaic/Mermaid-Export-Fit-Plugin"
+  },
+  {
+    "id": "spider",
+    "name": "spider",
+    "author": "huang",
+    "description": "AI chat branches as an interactive knowledge map. Tab to drill down, arrow keys to navigate, structured exports.",
+    "repo": "111pointer111/spider"
   }
 ]
